@@ -1,0 +1,11 @@
+C:\Users\admin\Desktop\bombom\bin\Debug\netcoreapp2.1\bombom.deps.json
+C:\Users\admin\Desktop\bombom\bin\Debug\netcoreapp2.1\bombom.runtimeconfig.json
+C:\Users\admin\Desktop\bombom\bin\Debug\netcoreapp2.1\bombom.runtimeconfig.dev.json
+C:\Users\admin\Desktop\bombom\bin\Debug\netcoreapp2.1\bombom.dll
+C:\Users\admin\Desktop\bombom\bin\Debug\netcoreapp2.1\bombom.pdb
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.AssemblyInfo.cs
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.dll
+C:\Users\admin\Desktop\bombom\obj\Debug\netcoreapp2.1\bombom.pdb

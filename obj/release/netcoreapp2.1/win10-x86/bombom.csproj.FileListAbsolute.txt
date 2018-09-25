@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\hostpolicy.dll
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\hostfxr.dll
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.exe
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.deps.json
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.runtimeconfig.json
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.runtimeconfig.dev.json
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.dll
+C:\Users\admin\Desktop\bombom\bin\release\netcoreapp2.1\win10-x86\bombom.pdb
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.AssemblyInfo.cs
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.dll
+C:\Users\admin\Desktop\bombom\obj\release\netcoreapp2.1\win10-x86\bombom.pdb
